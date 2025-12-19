@@ -1,6 +1,6 @@
 # Portfolio - Harshita Lohumi
 
-🚀 **Live Portfolio:** [https://harshita-lohumi.github.io/portfolio/](https://harshita-lohumi.github.io/portfolio/)
+🚀 **Live Portfolio:** [https://Harshitalohumi.github.io/portfolio/](https://Harshitalohumi.github.io/portfolio/)
 
 Professional portfolio website showcasing projects, skills, and experience as a Computer Science Engineer and AI/ML Specialist.
 
