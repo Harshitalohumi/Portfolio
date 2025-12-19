@@ -19,5 +19,5 @@ Professional portfolio website showcasing projects, skills, and experience as a 
 
 ## Contact
 📧 lohuminarshita@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/harshita-lohumi)  
-🐙 [GitHub](https://github.com/harshita-lohumi)
+🔗 [LinkedIn](https://linkedin.com/in/harshitalohumi)  
+🐙 [GitHub](https://github.com/Harshitalohumi)
